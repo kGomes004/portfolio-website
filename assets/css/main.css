@@ -1,0 +1,14 @@
+main{
+    width: 100%;
+    color: white;
+
+    section{
+        align-items: center;
+        justify-content: center;
+        background: black;
+        width: 100%;
+        height: 655px;
+        gap: 200px;
+        padding: 0 0 25px 0;
+    }
+}

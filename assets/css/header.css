@@ -39,12 +39,22 @@ header{
         }
 
         div{
+            display: flex;
+            justify-content: center;
+            align-items: center;
             gap: 25px;
             margin-right: 67px;
+
+            a{
+                i{
+                    margin-right: 4px;
+                }
+            }
         }
 
         a{
             color: white;
+            font-size: 16px;
         }
     }
 }

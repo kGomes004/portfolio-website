@@ -1,0 +1,12 @@
+.btn-cadastro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: white;
+    color: black;
+    padding: 7px 1px;
+    border-radius: 18px;
+    width: 100px;
+    font-weight: 500;
+    font-size: 14px;
+}
